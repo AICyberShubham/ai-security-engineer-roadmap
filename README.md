@@ -13,10 +13,6 @@ Your support motivates me to keep improving this project!
   <img src="https://img.shields.io/badge/AI_SECURITY_ENGINEER-ROADMAP-blueviolet?style=for-the-badge&logo=openai">
 </p>
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://img.shields.io/badge/AI_SECURITY_ENGINEER-ROADMAP-blueviolet?style=for-the-badge&logo=openai">
-</p>
 
 <h1 align="center">🚀 AI Security Engineer Roadmap (Zero → Advanced)</h1>
 
