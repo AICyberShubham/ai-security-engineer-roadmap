@@ -3,7 +3,11 @@
 ![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+## ⭐ Support
 
+If you find this roadmap helpful, please **star** the repository.  
+Your support motivates me to keep improving this project!
+ 
 <!-- Banner -->
 <p align="center">
   <img src="https://img.shields.io/badge/AI_SECURITY_ENGINEER-ROADMAP-blueviolet?style=for-the-badge&logo=openai">
