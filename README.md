@@ -1,3 +1,9 @@
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![Version](https://img.shields.io/badge/Version-v1.0-blue)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 <!-- Banner -->
 <p align="center">
   <img src="https://img.shields.io/badge/AI_SECURITY_ENGINEER-ROADMAP-blueviolet?style=for-the-badge&logo=openai">
