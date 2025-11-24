@@ -274,11 +274,6 @@ After completing this roadmap, you will have:
 </p>
 
 
-<p align="center">
-  <b>⭐ Star this repo if you find it helpful!</b><br>
-  <b>🚀 Let’s build the future of AI Security.</b>
-</p>
-
 
 
 
