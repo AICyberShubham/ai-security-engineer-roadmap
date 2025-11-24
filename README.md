@@ -20,17 +20,34 @@ Your support motivates me to keep improving this project!
   A complete, structured, production-ready roadmap to become an AI Security Engineer from absolute zero.
 </p>
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_SECURITY_ENGINEER-ROADMAP-blueviolet?style=for-the-badge&logo=openai">
+</p>
+
+<h1 align="center">🚀 AI Security Engineer Roadmap (Zero → Advanced)</h1>
+
+<p align="center">
+  <b>By: Shubham Kumar Pandey</b><br>
+  A complete, structured, production-ready roadmap to become an AI Security Engineer from absolute zero.
+</p>
+
 ---
-- [Overview](#overview)
-- [Final Goal](#final-goal)
-- [Tech Stack](#tech-stack)
-- [12-Month Learning Plan](#12-month-learning-plan)
-- [🚀 PHASE 1 — FOUNDATION (Month 1–2))](#-phase-1-foundations-month-12)
-- [PHASE 2 — Machine Learning (Month 3–4)](#-phase-2-machine-learning-month-34)
-- [PHASE 3 — LLM Engineering (Month 5–6)](#-phase-3-llm-engineering-month-56)
-- [PHASE 4 — Cybersecurity (Month 7–9)](#-phase-4-cybersecurity-month-7-9)
-- [PHASE 5 — LLM Security (Month 10–11)](#-phase-5-llm-security-month-1011)
-- [PHASE 6 — Master Project (Month 12)](#-phase-6-master-project-month-12)
+
+# 📌 Table of Contents
+- [🔰 Overview](#-overview)
+- [🏆 Final Goal](#-final-goal)
+- [🛠 Tech Stack](#-tech-stack)
+- [📅 12-Month Learning Plan](#-12-month-learning-plan)
+- [📘 Phase 1 — Foundations](#-phase-1--foundations)
+- [📘 Phase 2 — ML + Deep Learning](#-phase-2--machine-learning--deep-learning)
+- [📘 Phase 3 — LLM Engineering](#-phase-3--llm-engineering)
+- [📘 Phase 4 — AI for Cybersecurity](#-phase-4--ai-for-cybersecurity)
+- [📘 Phase 5 — LLM Security](#-phase-5--llm-security)
+- [📘 Phase 6 — Master Project](#-phase-6--final-master-project)
+- [🚀 Projects](#-projects)
+- [🎯 Daily / Weekly / Monthly Goals](#-daily--weekly--monthly-goals)
+- [🏁 Final Outcome](#-final-outcome)
 
 ---
 
@@ -118,6 +135,97 @@ By the end of this roadmap, you will be able to:
 
 ---
 
+# 📘 Phase 1 — Foundations
+**Goal:** Build strong fundamentals in Python, CS, Linux, Networking, Cyber basics.
+
+### Includes:
+- Python programming  
+- Data structures  
+- Linux commands + Bash  
+- Networking basics  
+- Hashing, encryption basics  
+- ML fundamentals  
+- Mini projects  
+
+---
+
+# 📘 Phase 2 — Machine Learning & Deep Learning
+**Goal:** Learn ML, DL, build models, understand neural networks.
+
+### Includes:
+- Pandas, NumPy  
+- Supervised ML models  
+- Model evaluation  
+- Neural networks  
+- CNN, LSTM, Autoencoders  
+- Security datasets (CICIDS, NSL-KDD)  
+- IDS models, anomaly detection  
+
+---
+
+# 📘 Phase 3 — LLM Engineering
+**Goal:** Learn modern AI tools (LLMs), build RAG systems, fine-tune models.
+
+### Includes:
+- Tokenization  
+- Embeddings  
+- Vector DBs  
+- RAG architecture  
+- LLM APIs  
+- Fine-tuning with LoRA  
+- Document Q&A bots  
+- Log-analysis chatbots  
+
+---
+
+# 📘 Phase 4 — AI for Cybersecurity
+**Goal:** Apply ML + AI to cybersecurity datasets.
+
+### Includes:
+- Intrusion Detection System  
+- Anomaly detection  
+- Malware classification  
+- Phishing URL detection  
+- Log sequence modeling  
+- Threat intelligence automation  
+
+---
+
+# 📘 Phase 5 — LLM Security
+**Goal:** Learn how to secure AI systems.
+
+### Includes:
+- Prompt Injection  
+- Jailbreaks  
+- Model Extraction  
+- Data Poisoning  
+- Adversarial Inputs  
+- Guardrails  
+- Secure RAG  
+- LLM Firewall  
+
+---
+
+# 📘 Phase 6 — Final Master Project
+**Goal:** Build a full production-grade AI Security System.
+
+### 🎯 **AI-Powered Security Analyst (AISA)**
+
+A full system with:
+- Log ingestion  
+- ML IDS  
+- Autoencoder anomaly detection  
+- LSTM attack detection  
+- LLM-powered log investigation  
+- Secure RAG  
+- Guardrails  
+- FastAPI backend  
+- React dashboard  
+- Authentication  
+- Deployment  
+
+This is your **signature project**.
+
 ---
 
 # 🚀 Projects
@@ -170,6 +278,12 @@ After completing this roadmap, you will have:
 - ✔ Job-ready confidence  
 
 ---
+
+<p align="center">
+  <b>⭐ Star this repo if you find it helpful!</b><br>
+  <b>🚀 Let’s build the future of AI Security.</b>
+</p>
+
 
 <p align="center">
   <b>⭐ Star this repo if you find it helpful!</b><br>
