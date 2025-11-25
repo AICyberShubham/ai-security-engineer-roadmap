@@ -10,7 +10,7 @@ Your support motivates me to keep improving this project!
  
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_SECURITY_ENGINEER-ROADMAP-blueviolet?style=for-the-badge&logo=openai">
+  <img src="https://img.shields.io/badge/AI_SECURITY_ENGINEER-ROADMAP-blueviolet?">
 </p>
 
 
